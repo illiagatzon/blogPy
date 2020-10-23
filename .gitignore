@@ -1,0 +1,8 @@
+#system files
+.idea/
+
+#virtual enviroment - venv
+venv/
+
+#default database
+db.sqlite3
