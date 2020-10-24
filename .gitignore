@@ -6,3 +6,6 @@ venv/
 
 #default database
 db.sqlite3
+
+#app migrations
+blog/migrations/
