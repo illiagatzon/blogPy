@@ -1,11 +1,18 @@
-#system files
+# System Files
 .idea/
 
-#virtual enviroment - venv
+# Virtual Enviroment - venv
 venv/
 
-#default database
+# Default Database
 db.sqlite3
 
-#app migrations
+# Migrations
 blog/migrations/
+
+# Credentials
+.env
+
+# Static Files
+files/
+staticfiles/
